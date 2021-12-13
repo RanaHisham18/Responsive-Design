@@ -1,0 +1,46 @@
+body{
+background-image: url("blue.jpg");
+background-size:cover;
+background-repeat: repeat;
+
+}
+
+.main{
+   width: 90%;
+   position:absolute;
+   top: 32%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   color: beige; 
+
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: italic;
+    color: beige;
+   margin-top: 60px;
+   
+  
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+     margin-top: 10px;
+     margin-bottom: 20px;
+}
+
+
+
+#btn{
+    
+    width:50%;
+  color: beige;
+    border-radius: 5%;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 15px;
+   
+}
