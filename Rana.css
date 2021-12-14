@@ -11,6 +11,7 @@ background-repeat: repeat;
    top: 32%;
    left: 50%;
    transform: translate(-50%,-50%);
+   /*tranfrom handles how the word appears*/
    text-align: center;
    color: beige; 
 
